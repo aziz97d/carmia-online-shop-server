@@ -1,2 +1,10 @@
-# full-stack-server-aziz97d
-full-stack-server-aziz97d created by GitHub Classroom
+# full-stack-Carmia
+
+Node js use as backend and Database uses MongogDB
+
+## Dependencies
+
+* CORS
+* Express
+* Body Parser
+* MongoDb
